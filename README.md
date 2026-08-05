@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=I'm+H4K3D;Junior+Pentester;Bug+Hunter;Red+Team+Enthusiast)](https://git.io/typing-svg)
 
-<img src="./assets/giphy_16.gif" width="700" alt="Intro GIF"/>
+<img src="./assets/terminal_bio.svg" width="700" alt="Terminal Bio"/>
 
 </div>
 
@@ -20,29 +20,6 @@
   developing custom audit tools, and hunting for security flaws in the wild.
 </p>
 
-
-
-```bash
-h4k3d@kali:~$ whoami
-> Junior Penetration Tester | Bug Hunter | Web & Infra Security
-
-h4k3d@kali:~$ cat about.txt
-> Self-taught in offensive security, currently sharpening my skills through
-> CTFs (HackTheBox, TryHackMe) and real-world bug bounty hunting.
-> Always digging one layer deeper — recon, exploitation, privesc, repeat.
-
-h4k3d@kali:~$ id
-> uid=1000(h4k3d) gid=1337(redteam) groups=1337(redteam),0(root_someday)
-
-h4k3d@kali:~$ cat current_focus.txt
-> [+] Web application security (SSRF, IDOR, auth bypass, injection)
-> [+] Linux privilege escalation & CVE research
-> [+] Building custom recon / exploitation tooling
-> [+] Writing detailed HTB write-ups
-
-h4k3d@kali:~$ _
-```
-
 ---
 
 ### 📫 How to reach me
@@ -55,11 +32,9 @@ h4k3d@kali:~$ _
 
 ---
 
-<img align="right" height="255" width="580" alt="GIF" src="./assets/giphy_16.gif" />
-
 ### 🛠️ Languages & Tools
 
-<p>
+<p align="left">
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -73,13 +48,11 @@ h4k3d@kali:~$ _
 **Scripting:** Python · Bash
 **Environment:** Kali Linux · Docker
 
-<br clear="right"/>
-
 ---
 
 ### 🖥️ Operating Systems
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/GNU/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Parrot_OS-15F395?style=for-the-badge&logo=parrotsecurity&logoColor=black"/>
@@ -89,7 +62,7 @@ h4k3d@kali:~$ _
 
 ### 🎯 Currently Hunting On
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
 </p>
