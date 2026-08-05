@@ -33,6 +33,16 @@
 
 ### 🛠️ Languages & Tools
 
+/░      /█▀▀█    /░ /░    /█▀▀▀    /░/░    /█▀▀█    /█▀▀▀    /█▀▀▀/
+│ ▒     │ ▓▓▓▓   │ ▒▒ ▒   │ ▓/▓▓   │ ▒ ▒   │ ▓▓▓▓   │ ▓/▓▓   │ ▓▓▓  
+│ ▓     │_▒_/▒   │ ▓│▓▓   │ ▒//▒   │ ▓ ▓   │_▒_/▒   │ ▒//▒   │_▒_/  
+│ ███   │ ░│ ░   │ █│ █   │ ░░░░   │ ███   │ ░│ ░   │ ░░░░   │ ░░░░ 
+│/__/   │//│//   │//│//   │/___/   │/__/   │//│//   │/___/   │/___/
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,html,css,js,bash,git,linux,docker" /> </p> <p align="center"> <b>Recon & Exploitation:</b> Nmap · Burp Suite · Metasploit · ffuf / gobuster<br> <b>Scripting:</b> Python · Bash<br> <b>Environment:</b> Kali Linux · Docker </p>
+
+
+
+
 <p align="left">
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
