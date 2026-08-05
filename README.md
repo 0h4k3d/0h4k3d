@@ -13,8 +13,9 @@
 
 ---
 
-### How to reach me
-
+<div align="center">
+  <img src="./assets/status_embed_animated.svg" width="700" alt="Status"/>
+</div>
 <p align="center">
   <a href="https://x.com/realh4k3d">
     <img src="https://img.shields.io/badge/X-@realh4k3d-000000?style=for-the-badge&logo=x&logoColor=white"/>
