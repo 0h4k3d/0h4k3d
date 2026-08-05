@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-  <img src="./assets/status_embed_animated.svg" width="700" alt="Status"/>
+  <img src="./assets/status_embed_animated.svg" width="1100" alt="Status"/>
 </div>
 <p align="center">
   <a href="https://x.com/realh4k3d">
