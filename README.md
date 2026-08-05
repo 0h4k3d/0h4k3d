@@ -5,7 +5,8 @@
 <img src="./assets/terminal_bio.svg" width="700" alt="Terminal Bio"/>
 
 </div>
-<h1 align="center">👋 Hey, I'm H4K3D</h1>
+
+<h1 align="center">Hey, I'm H4K3D</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Hunting_Bugs-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black"/>
@@ -14,14 +15,14 @@
 </p>
 
 <p align="center">
-  Junior pentester and cybersecurity enthusiast 🛡️.<br>
+  Junior pentester and cybersecurity enthusiast.<br>
   Passionate about offensive security — I spend my time exploring vulnerabilities,<br>
   developing custom audit tools, and hunting for security flaws in the wild.
 </p>
 
 ---
 
-### 📫 How to reach me
+### How to reach me
 
 <p align="center">
   <a href="https://www.x.com/H4k3d">
@@ -31,35 +32,29 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
+```
 /░      /█▀▀█    /░ /░    /█▀▀▀    /░/░    /█▀▀█    /█▀▀▀    /█▀▀▀/
 │ ▒     │ ▓▓▓▓   │ ▒▒ ▒   │ ▓/▓▓   │ ▒ ▒   │ ▓▓▓▓   │ ▓/▓▓   │ ▓▓▓  
 │ ▓     │_▒_/▒   │ ▓│▓▓   │ ▒//▒   │ ▓ ▓   │_▒_/▒   │ ▒//▒   │_▒_/  
 │ ███   │ ░│ ░   │ █│ █   │ ░░░░   │ ███   │ ░│ ░   │ ░░░░   │ ░░░░ 
 │/__/   │//│//   │//│//   │/___/   │/__/   │//│//   │/___/   │/___/
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,html,css,js,bash,git,linux,docker" /> </p> <p align="center"> <b>Recon & Exploitation:</b> Nmap · Burp Suite · Metasploit · ffuf / gobuster<br> <b>Scripting:</b> Python · Bash<br> <b>Environment:</b> Kali Linux · Docker </p>
+```
 
-
-
-
-<p align="left">
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png"></code>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,bash,git,linux,docker" />
 </p>
 
-**Recon & Exploitation:** Nmap · Burp Suite · Metasploit · ffuf/gobuster
-**Scripting:** Python · Bash
-**Environment:** Kali Linux · Docker
+<p align="center">
+  <b>Recon & Exploitation:</b> Nmap · Burp Suite · Metasploit · ffuf / gobuster<br>
+  <b>Scripting:</b> Python · Bash<br>
+  <b>Environment:</b> Kali Linux · Docker
+</p>
 
 ---
 
-### 🖥️ Operating Systems
+### Operating Systems
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
@@ -69,7 +64,7 @@
 
 ---
 
-### 🎯 Currently Hunting On
+### Currently Hunting On
 
 <p align="center">
   <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
@@ -78,33 +73,55 @@
 
 ---
 
+### Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/0h4k3d/h4k3d">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=0h4k3d&repo=h4k3d&theme=radical&hide_border=true"/>
+  </a>
+  <a href="https://github.com/0h4k3d/BugHunter">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=0h4k3d&repo=BugHunter&theme=radical&hide_border=true"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/0h4k3d/CSRF-0-protection-Room">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=0h4k3d&repo=CSRF-0-protection-Room&theme=radical&hide_border=true"/>
+  </a>
+</p>
+
+---
+
 <details>
-  <summary>📈 My GitHub Stats (click to expand)</summary>
+  <summary>My GitHub Stats (click to expand)</summary>
   <br>
 
-  ## 🏆 GitHub Trophies
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=0x1Gp&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+  <div align="center">
 
-  ## 📊 GitHub Stats
-  ![Stats](https://github-readme-stats.vercel.app/api?username=0x1Gp&show_icons=true&theme=radical&hide_border=true)
+  #### GitHub Trophies
+  <img src="https://github-profile-trophy.vercel.app/?username=0h4k3d&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
 
-  ## 🚀 Most Used Languages
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x1Gp&layout=compact&langs_count=6&theme=radical&hide_border=true)
+  <br><br>
 
-  ## 🔥 Streak
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=0x1Gp&theme=radical&hide_border=true)
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=0h4k3d&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0h4k3d&layout=compact&langs_count=6&theme=radical&hide_border=true"/>
 
+  <br><br>
+
+  #### Streak
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0h4k3d&theme=radical&hide_border=true"/>
+
+  </div>
 </details>
 
 ---
 
 <div align="center">
 
-### ⚠️ Disclaimer
+### Disclaimer
 All security research shown here is conducted in authorized lab environments (HTB, TryHackMe, personal labs) or through authorized bug bounty programs. No unauthorized access, ever.
 
-<h3>🔥 Show some ❤️ by starring my repositories!</h3>
+**Show some support by starring my repositories!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=0x1Gp&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=0h4k3d&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
