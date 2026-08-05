@@ -25,8 +25,14 @@
 ### How to reach me
 
 <p align="center">
-  <a href="https://www.x.com/H4k3d">
-    <img src="https://img.shields.io/badge/X-@0H4k3d-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  <a href="https://x.com/realh4k3d">
+    <img src="https://img.shields.io/badge/X-@realh4k3d-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://app.hackthebox.com/users/2035988">
+    <img src="https://www.hackthebox.eu/badge/image/2035988"/>
   </a>
 </p>
 
@@ -83,7 +89,9 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+  <a href="https://app.hackthebox.com/users/2035988">
+    <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+  </a>
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
 </p>
 
