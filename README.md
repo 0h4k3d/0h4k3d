@@ -7,17 +7,9 @@
 </div>
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Hunting_Bugs-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Focus-Offensive_Security-red?style=for-the-badge&logo=owasp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Coffee-Required-brown?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
-</p>
-
-<p align="center">
-  Junior pentester and cybersecurity enthusiast.<br>
-  Passionate about offensive security — I spend my time exploring vulnerabilities,<br>
-  developing custom audit tools, and hunting for security flaws in the wild.
-</p>
+<div align="center">
+  <img src="./assets/status_embed_animated.svg" width="700" alt="Status"/>
+</div>
 
 ---
 
