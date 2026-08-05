@@ -6,7 +6,6 @@
 
 </div>
 
-<h1 align="center">Hey, I'm H4K3D</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Hunting_Bugs-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black"/>
@@ -27,12 +26,6 @@
 <p align="center">
   <a href="https://x.com/realh4k3d">
     <img src="https://img.shields.io/badge/X-@realh4k3d-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://app.hackthebox.com/users/2035988">
-    <img src="https://www.hackthebox.eu/badge/image/2035988"/>
   </a>
 </p>
 
@@ -89,11 +82,27 @@
 </div>
 
 <p align="center">
-  <a href="https://app.hackthebox.com/users/2035988">
-    <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-  </a>
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
 </p>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://htb-experience-prod-public-storage.s3.amazonaws.com/assets/ranks/svg/rank_professional.svg" width="90"/>
+</td>
+<td align="left">
+&nbsp;&nbsp;<b>H4K3D</b> on Hack The Box<br>
+&nbsp;&nbsp;Rank: <b>Professional</b><br>
+&nbsp;&nbsp;<a href="https://app.hackthebox.com/users/2035988">View full profile →</a>
+</td>
+</tr>
+</table>
+
+<a href="https://app.hackthebox.com/users/2035988">
+  <img src="https://www.hackthebox.eu/badge/image/2035988"/>
+</a>
+</div>
 
 ---
 
