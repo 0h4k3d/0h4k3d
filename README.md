@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=E50000&center=true&vCenter=true&width=600&lines=H4k3d;are+in+your+systemes)](https://git.io/typing-svg)
 
-<img src="./assets/terminal_bio.svg" width="1000" alt="Terminal Bio"/>
+<img src="./assets/terminal_bio_metasploit.svg" width="1000" alt="Terminal Bio"/>
 
 </div>
 
