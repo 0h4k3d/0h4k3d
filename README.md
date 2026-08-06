@@ -2,19 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=E50000&center=true&vCenter=true&width=600&lines=H4k3d;are+in+your+systemes)](https://git.io/typing-svg)
 
-<img src="./assets/terminal_bio.svg" width="700" alt="Terminal Bio"/>
+<img src="./assets/terminal_bio.svg" width="1000" alt="Terminal Bio"/>
 
-</div>
-
-
-<div align="center">
-  <img src="./assets/status_embed_animated.svg" width="700" alt="Status"/>
 </div>
 
 ---
 
-### How to reach me
-
+<div align="center">
+  <img src="./assets/status_embed_animated.svg" width="1100" alt="Status"/>
+</div>
 <p align="center">
   <a href="https://x.com/realh4k3d">
     <img src="https://img.shields.io/badge/X-@realh4k3d-000000?style=for-the-badge&logo=x&logoColor=white"/>
