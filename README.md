@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<a href="https://github.com/TON-PSEUDO">
+<a href="https://github.com/0h4k3d">
   <img src="assets/terminal_exploit_multi.svg" alt="H4k3d — languages & CTF" width="700"/>
 </a>
 
