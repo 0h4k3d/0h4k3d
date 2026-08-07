@@ -86,14 +86,15 @@
 │ █_/    │ ███   │ ░│ ░    │ █    │_█_/    │ ███   │ █_/█   │ █ █ █
 │//      │/__/   │//│//    │//    │//      │/__/   │// //   │//////
 ```
+### HTB Profile
 
-### 🖥️ HTB Profile & Live Session
+Currently active on Hack The Box, hunting boxes and climbing the France leaderboard. Live terminal below pulls stats directly from the HTB API.
 
 <div align="center">
 <table>
 <tr>
 
-<td align="center" valign="top" width="300">
+<td align="center" valign="top" width="360">
 
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
 
@@ -101,8 +102,8 @@
 
 <table>
 <tr>
-<td align="center" width="80">
-<img src="https://htb-experience-prod-public-storage.s3.amazonaws.com/assets/ranks/svg/rank_professional.svg" width="70"/>
+<td align="center" width="110">
+<img src="https://htb-experience-prod-public-storage.s3.amazonaws.com/assets/ranks/svg/rank_professional.svg" width="100"/>
 </td>
 <td align="left">
 &nbsp;&nbsp;<b>H4K3D</b> on Hack The Box<br>
@@ -112,7 +113,7 @@
 </tr>
 </table>
 
-<br>
+<br><br>
 
 <a href="https://app.hackthebox.com/users/2035988">
 <img src="https://www.hackthebox.eu/badge/image/2035988"/>
@@ -120,9 +121,9 @@
 
 </td>
 
-<td align="center" valign="top" width="480">
+<td align="center" valign="top" width="620">
 
-<img src="./assets/htb_terminal_red_v3_1.svg" width="460" alt="HTB terminal session animation"/>
+<img src="./assets/htb_terminal_red_v3_1.svg" width="600" alt="HTB terminal session animation"/>
 
 </td>
 
