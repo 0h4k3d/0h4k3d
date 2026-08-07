@@ -87,42 +87,50 @@
 │//      │/__/   │//│//    │//    │//      │/__/   │// //   │//////
 ```
 
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
-</p>
+### 🖥️ HTB Profile & Live Session
 
 <div align="center">
 <table>
 <tr>
-<td align="center" width="120">
-<img src="https://htb-experience-prod-public-storage.s3.amazonaws.com/assets/ranks/svg/rank_professional.svg" width="90"/>
+
+<td align="center" valign="top" width="300">
+
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="80">
+<img src="https://htb-experience-prod-public-storage.s3.amazonaws.com/assets/ranks/svg/rank_professional.svg" width="70"/>
 </td>
 <td align="left">
 &nbsp;&nbsp;<b>H4K3D</b> on Hack The Box<br>
 &nbsp;&nbsp;Rank: <b>Professional</b><br>
-&nbsp;&nbsp;<a href="https://app.hackthebox.com/users/2035988">View full profile →</a>
+&nbsp;&nbsp;<a href="https://app.hackthebox.com/users/2035988">View profile →</a>
 </td>
 </tr>
 </table>
 
+<br>
+
 <a href="https://app.hackthebox.com/users/2035988">
-  <img src="https://www.hackthebox.eu/badge/image/2035988"/>
+<img src="https://www.hackthebox.eu/badge/image/2035988"/>
 </a>
+
+</td>
+
+<td align="center" valign="top" width="480">
+
+<img src="./assets/htb_terminal_red_v3_1.svg" width="460" alt="HTB terminal session animation"/>
+
+</td>
+
+</tr>
+</table>
 </div>
 
 ---
----
-
-### 🖥️ Live Session
-
-A quick look (styled for fun) at a shell session — profile and country ranking pulled from the HTB API.
-
-<div align="center">
-  <img src="./assets/htb_terminal_red_v3_1.svg" width="780" alt="HTB terminal session animation"/>
-</div>
-
 ---
 
 
