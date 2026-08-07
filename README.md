@@ -50,9 +50,9 @@
 <img src="https://skillicons.dev/icons?i=python,bash,js,html,css,linux,git,docker" />
 
 </td>
-<td width="1000%" align="center" valign="middle">
+<td width="50%" align="center">
 
-<img src="assets/terminal_exploit_multi.svg" width="1000" alt="H4k3d terminal — languages"/>
+<img src="assets/terminal_exploit_multi.svg" style="height:100%; width:auto; max-width:100%;" alt="H4k3d terminal — languages"/>
 
 </td>
 </tr>
