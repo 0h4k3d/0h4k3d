@@ -33,7 +33,7 @@
 
 <table>
 <tr>
-<td width="1000%" valign="middle">
+<td width="50%" valign="middle">
 
 ### 🧠 Languages I speak (to machines)
 
@@ -50,7 +50,7 @@
 <img src="https://skillicons.dev/icons?i=python,bash,js,html,css,linux,git,docker" />
 
 </td>
-<td width="50%" align="center" valign="middle">
+<td width="1000%" align="center" valign="middle">
 
 <img src="assets/terminal_exploit_multi.svg" width="1000" alt="H4k3d terminal — languages"/>
 
