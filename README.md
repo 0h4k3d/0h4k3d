@@ -31,16 +31,32 @@
 │/__/   │//│//   │//│//   │/___/   │/__/   │//│//   │/___/   │/___/
 ```
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="middle">
 
-<a href="https://github.com/0h4k3d">
-  <img src="assets/terminal_exploit_multi.svg" alt="H4k3d — languages & CTF" width="700"/>
-</a>
+### 🧠 Languages I speak (to machines)
 
-<br/>
-<sub>⚡ CTF player · Bug Bounty hunter · always compiling something</sub>
+**Python** — my go-to for exploit dev, automation, and custom recon tooling. From quick one-off scripts to full audit frameworks.
 
-</div>
+**Bash** — glue language for every pentest workflow: chaining tools, parsing output, automating the boring parts.
+
+**JavaScript** — mostly for web app testing: understanding client-side logic, XSS payloads, DOM manipulation during recon.
+
+**HTML / CSS** — enough to read, break, and sometimes rebuild what I'm attacking.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,bash,js,html,css,linux,git,docker" />
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+<img src="assets/terminal_exploit_multi.svg" width="380" alt="H4k3d terminal — languages"/>
+
+</td>
+</tr>
+</table>
 
 ---
 ```
