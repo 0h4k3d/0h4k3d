@@ -33,7 +33,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="middle">
+<td width="1000%" valign="middle">
 
 ### 🧠 Languages I speak (to machines)
 
