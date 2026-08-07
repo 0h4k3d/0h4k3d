@@ -115,10 +115,11 @@ Currently active on Hack The Box, hunting boxes.
 
 <br><br>
 
-<a href="https://app.hackthebox.com/users/2035988">
-<img src="https://www.hackthebox.eu/badge/image/2035988"/>
-</a>
-
+<p align="center">
+  <a href="https://app.hackthebox.com/users/2035988">
+    <img src="https://www.hackthebox.eu/badge/image/2035988" width="350"/>
+  </a>
+</p>
 </td>
 
 <td align="center" valign="top" width="620">
