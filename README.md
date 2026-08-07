@@ -94,11 +94,7 @@ Currently active on Hack The Box, hunting boxes.
 <table>
 <tr>
 
-<td align="center" valign="top" width="360">
-
-
-
-<br><br>
+<td align="center" valign="middle" width="380">
 
 <table>
 <tr>
@@ -115,22 +111,23 @@ Currently active on Hack The Box, hunting boxes.
 
 <br><br>
 
-<p align="center">
-  <a href="https://app.hackthebox.com/users/2035988">
-    <img src="https://www.hackthebox.eu/badge/image/2035988" width="350"/>
-  </a>
-</p>
+<a href="https://app.hackthebox.com/users/2035988">
+<img src="https://www.hackthebox.eu/badge/image/2035988" width="350"/>
+</a>
+
 </td>
 
-<td align="center" valign="top" width="620">
+<td align="center" valign="middle" width="750">
 
-<img src="./assets/htb_terminal_red_v3_1.svg" width="600" alt="HTB terminal session animation"/>
+<img src="./assets/htb_terminal_red_v3_1.svg" width="740" alt="HTB terminal session animation"/>
 
 </td>
 
 </tr>
 </table>
 </div>
+
+---
 
 ---
 ---
