@@ -113,6 +113,20 @@
 </div>
 
 ---
+---
+
+### 🖥️ Live Session
+
+A quick look (styled for fun) at a shell session — profile and country ranking pulled from the HTB API.
+
+<div align="center">
+  <img src="./assets/htb_terminal_red_v3_1.svg" width="780" alt="HTB terminal session animation"/>
+</div>
+
+---
+
+
+
 
 ### Pinned Repositories
 
