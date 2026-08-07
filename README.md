@@ -31,17 +31,16 @@
 │/__/   │//│//   │//│//   │/___/   │/__/   │//│//   │/___/   │/___/
 ```
 
+<div align="center">
+
+<a href="https://github.com/TON-PSEUDO">
+  <img src="assets/terminal_exploit_multi.svg" alt="H4k3d — languages & CTF" width="700"/>
+</a>
+
+<br/>
+<sub>⚡ CTF player · Bug Bounty hunter · always compiling something</sub>
+
 </div>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,bash,git,linux,docker" />
-</p>
-
-<p align="center">
-  <b>Recon & Exploitation:</b> Nmap · Burp Suite · Metasploit · ffuf / gobuster<br>
-  <b>Scripting:</b> Python · Bash<br>
-  <b>Environment:</b> Kali Linux · Docker
-</p>
 
 ---
 ```
