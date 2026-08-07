@@ -52,7 +52,7 @@
 </td>
 <td width="50%" align="center" valign="middle">
 
-<img src="assets/terminal_exploit_multi.svg" width="380" alt="H4k3d terminal — languages"/>
+<img src="assets/terminal_exploit_multi.svg" width="1000" alt="H4k3d terminal — languages"/>
 
 </td>
 </tr>
