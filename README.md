@@ -88,7 +88,7 @@
 ```
 ### HTB Profile
 
-Currently active on Hack The Box, hunting boxes and climbing the France leaderboard. Live terminal below pulls stats directly from the HTB API.
+Currently active on Hack The Box, hunting boxes.
 
 <div align="center">
 <table>
@@ -96,18 +96,18 @@ Currently active on Hack The Box, hunting boxes and climbing the France leaderbo
 
 <td align="center" valign="top" width="360">
 
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+
 
 <br><br>
 
 <table>
 <tr>
-<td align="center" width="110">
-<img src="https://htb-experience-prod-public-storage.s3.amazonaws.com/assets/ranks/svg/rank_professional.svg" width="100"/>
+<td align="center" width="160">
+<img src="https://htb-experience-prod-public-storage.s3.amazonaws.com/assets/ranks/svg/rank_professional.svg" width="150"/>
 </td>
 <td align="left">
-&nbsp;&nbsp;<b>H4K3D</b> on Hack The Box<br>
-&nbsp;&nbsp;Rank: <b>Professional</b><br>
+&nbsp;&nbsp;<b><font size="5">H4K3D</font></b> on Hack The Box<br><br>
+&nbsp;&nbsp;<b>Rank:</b> Professional<br>
 &nbsp;&nbsp;<a href="https://app.hackthebox.com/users/2035988">View profile →</a>
 </td>
 </tr>
